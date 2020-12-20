@@ -1,6 +1,6 @@
 package com.example.RestTemplateB.service;
 
-import com.example.model.MyString;
+import com.example.RestTemplateB.model.MyString;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
